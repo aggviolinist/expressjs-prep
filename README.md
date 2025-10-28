@@ -1,2 +1,2 @@
 # expressjs-prep
-Typescript study material
+Typescript study material.
